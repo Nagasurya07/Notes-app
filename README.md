@@ -8,7 +8,6 @@ A simple web-based notes application that allows users to create, edit, and dele
 - Edit existing notes
 - Delete notes
 - Notes are saved in local storage
-- Markdown support for note content
 
 ## Technologies Used
 
