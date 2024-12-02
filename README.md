@@ -1,4 +1,4 @@
-# Notes App
+## Notes App
 
 A simple web-based notes application that allows users to create, edit, and delete notes. The notes are saved in the browser's local storage.
 
